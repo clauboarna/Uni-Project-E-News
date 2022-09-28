@@ -1,0 +1,13 @@
+{
+  "short_name": "E-News",
+  "name": "E-News",
+  "icons": [
+    {
+      
+    }
+],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
